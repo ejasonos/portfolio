@@ -2,27 +2,6 @@
   .rw1 {
     height: fit-content;
     width: 100%;
-
-    .btn-css-sass {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 0.3em 0.8em;
-      gap: 0.2em;
-      font-weight: bold;
-      color: white;
-      text-transform: uppercase;
-      background-color: red;
-      border: 5px solid white;
-      border-radius: 1em;
-
-      .logo-img-btn {
-        height: 0.7em;
-        width: 0.7em;
-        filter: invert(10%) sepia(330%) saturate(200%) hue-rotate(280deg)
-          brightness(75%) contrast(80%);
-      }
-    }
   }
 
   .flow-page-1 {
