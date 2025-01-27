@@ -147,32 +147,6 @@
     width: 100vw;
   }
 
-  .rw1 {
-    height: fit-content;
-    width: 100%;
-
-    .btn-css-sass {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 0.3em 0.8em;
-      gap: 0.2em;
-      font-weight: bold;
-      color: rgb(43, 43, 47);
-      background-image: linear-gradient(90deg, aqua, aqua, aqua, purple, green);
-      border: 5px solid white;
-      border-top-right-radius: 0.4em;
-      border-bottom-right-radius: 0.4em;
-
-      .logo-img-btn {
-        height: 0.7em;
-        width: 0.7em;
-        filter: invert(10%) sepia(330%) saturate(200%) hue-rotate(280deg)
-          brightness(75%) contrast(80%);
-      }
-    }
-  }
-
   .flow-page-1 {
     display: flex;
     flex-direction: column;
@@ -316,46 +290,6 @@
     display: flex;
     flex-direction: column;
     width: 100vw;
-  }
-
-  .rw1 {
-    height: fit-content;
-    width: 100%;
-
-    .btn-css-sass {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 0.3em;
-      gap: 0.2em;
-      font-weight: bold;
-      color: rgb(43, 43, 47);
-      background-image: linear-gradient(
-        120deg,
-        aqua,
-        aqua,
-        aqua,
-        aqua,
-        purple,
-        purple,
-        greenyellow,
-        green
-      );
-      border: 0.1em solid whitesmoke;
-      border-top-right-radius: 0.4em;
-      border-bottom-right-radius: 0.4em;
-      p {
-        font-size: 0.5em;
-      }
-
-      .logo-img-btn {
-        height: 0.7em;
-        width: 0.7em;
-        place-self: center;
-        filter: invert(10%) sepia(330%) saturate(200%) hue-rotate(280deg)
-          brightness(75%) contrast(80%);
-      }
-    }
   }
 
   .flow-page-1 {
@@ -504,45 +438,6 @@
     display: flex;
     flex-direction: column;
     width: 100vw;
-  }
-
-  .rw1 {
-    height: fit-content;
-    width: 100%;
-
-    .btn-css-sass {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 0.3em;
-      gap: 0.2em;
-      font-weight: bold;
-      color: rgb(43, 43, 47);
-      background-image: linear-gradient(
-        120deg,
-        aqua,
-        aqua,
-        aqua,
-        aqua,
-        purple,
-        purple,
-        greenyellow,
-        green
-      );
-      border: 0.1em solid whitesmoke;
-      border-top-right-radius: 0.4em;
-      border-bottom-right-radius: 0.4em;
-      p {
-        font-size: 0.5em;
-      }
-      .logo-img-btn {
-        height: 0.7em;
-        width: 0.7em;
-        place-self: center;
-        filter: invert(10%) sepia(330%) saturate(200%) hue-rotate(280deg)
-          brightness(75%) contrast(80%);
-      }
-    }
   }
 
   .flow-page-1 {
